@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/index.html"
+		},
+		{
+			"path": "../3.1 Nesting and Indentation"
+		},
+		{
+			"path": "../4.1+Webpages"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "4.3 HTML Porfolio Project"
+	}
+}
